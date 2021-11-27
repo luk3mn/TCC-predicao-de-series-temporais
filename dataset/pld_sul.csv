@@ -1,4 +1,4 @@
-inicio-semana,preco-pesado,preco-medio,preco-leve,geracao-hidraulica,geracao-termica,carga-energia,reservatorio-EARM,reservatorio-ENA
+inicio_semana,preco_pesado,preco_medio,preco_leve,geracao_hidraulica,geracao_termica,carga_energia,reservatorio_EARM,reservatorio_ENA
 8/4/2001,"4,00","4,00","4,00","7243,57","1002,43","6681,43","96,89","137,86"
 8/11/2001,"37,12","37,12","37,12","6898,14","1245,00","6778,71","95,16","119,86"
 8/18/2001,"60,62","60,62","60,62","6607,29","1318,00","6742,71","89,98","99,29"
